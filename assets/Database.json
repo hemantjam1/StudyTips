@@ -1,0 +1,387 @@
+{
+  "studyTipsCategory": [
+    {
+      "categoryName": "Effective Study Tips",
+      "imageUrl": "assets/images/1.jpg",
+      "length": "5",
+      "initialStudyTip": "While some experts argue the ability to concentrate during silence or listening to music while studying is left up to personal preference, many agree that playing certain types of music, such as \"obscure 18th century composers,\" can help students engage parts of their brain that help them pay attention and make predictions. Not to mention, listening to music may improve your mood and change your whole outlook about studying in general.",
+      "studyTips": [
+        {
+          "studyTip": "Tablets and other eLearning media are convenient and portable, but research suggests that traditional print materials still have the upper hand when it comes to studying. Some researchers argue that adopting interactive habits like scrolling, clicking, and pointing enhances the academic experience, but more than 90% of students polled said they prefer a hard copy or print over a digital device when it comes to studying and school work. Furthermore, a psychology lecturer finds that students required more repetition to learn new material if they were reading on a computer screen versus reading printed material."
+        },
+        {
+          "studyTip": "While some experts argue the ability to concentrate during silence or listening to music while studying is left up to personal preference, many agree that playing certain types of music, such as \"obscure 18th century composers,\" can help students engage parts of their brain that help them pay attention and make predictions. Not to mention, listening to music may improve your mood and change your whole outlook about studying in general."
+        },
+        {
+          "studyTip": "The benefits of exercise on the brain have been well established in the fields of health, fitness, and psychology. Studies show our brainpower gets a boost following even a short workout, as our bodies are pumping oxygen and nutrients to the brain. According to Dr. Douglas B. McKeag, breaking a sweat shortly before cracking the books can make you more alert, open, and able to learn new information during your post-workout study session."
+        },
+        {
+          "studyTip": "Stress hinders learning. UC Irvine researchers find that stress lasting as briefly as a couple of hours can engage corticotropin-releasing hormones that disrupt the process of creating and storing memories. Taking study breaks to exercise or drawing a few deep breaths will help your studying if they lower your stress level."
+        },
+        {
+          "studyTip": "While you might think late-night study sessions are disadvantageous to your academic success, research suggests they are not necessarily a bad idea. Additionally, some psychologists even encourage students to break with their daily college-life routines, especially when it comes to studying for a midterm or final exam."
+        }
+      ]
+    },
+    {
+      "categoryName": "Study Setting",
+      "imageUrl": "assets/images/2.jpg",
+      "length": "7",
+      "initialStudyTip": "The first step to creating your study space is to choose a comfortable location. This can be a personal office, a desk in your bedroom, or a chair at the kitchen table. The important part is to choose an area with minimal interruptions – a quiet, relaxing space where you can focus and get work done. ",
+      "studyTips": [
+        {
+          "studyTip": "The first step to creating your study space is to choose a comfortable location. This can be a personal office, a desk in your bedroom, or a chair at the kitchen table. The important part is to choose an area with minimal interruptions – a quiet, relaxing space where you can focus and get work done. "
+        },
+        {
+          "studyTip": "Not every student can close the door and have total silence while doing schoolwork. Many of us probably have kids running around, making noise and meeting their daily quota of times they can hear the word “Mommy!”"
+        },
+        {
+          "studyTip": "Keep all of your supplies in one place and make sure that it stays organized. This does not have to be a desk drawer. It could be something simple and small, like a zipper pouch on the front of your notebook that holds a pencil and your favorite pen."
+        },
+        {
+          "studyTip": " The goal is to make it as easy as possible to find what you need; you don’t want to waste precious study time searching for supplies or class materials."
+        },
+        {
+          "studyTip": "If you have kids, then you know it’s not always possible to spend a few hours at a time preparing for an important exam. It might be easier to get your studying done in between appointments, while the kids are at school, or after everyone has gone to bed. Planning ahead is vital. "
+        },
+        {
+          "studyTip": "Schedule your study time for when you know it will be quiet and you can remain focused with minimal distractions. You can also experiment with a few different times to find a routine that works best for you. For example, some people might study best at night, while others are more productive in the morning."
+        },
+        {
+          "studyTip": "What motivates you? What makes you want to conquer the world? Capture the essence of that motivation – in photos, posters, Post-it notes, etc. "
+        }
+      ]
+    },
+    {
+      "categoryName": "Effective Study",
+      "imageUrl": "assets/images/3.jpg",
+      "length": "6",
+      "initialStudyTip": "A change of scenery impacts learning and concentration abilities. Psychologist Robert Bjork suggests that simply moving to a different room to study (or going a step further and learning amongst the great outdoors) could increase both your concentration and retention levels.",
+      "studyTips": [
+        {
+          "studyTip": "Studying at your tiredest can help your brain retain higher concentrations of new skills, such as speaking a foreign language or playing an instrument. There’s even a term for it: sleep-learning. As the memory-consolidation process does its best work during slow-wave sleep, your brain could be getting both the restoration and reactivation it needs during its time of rest. All of this means that reviewing study materials before bed can help you brain learn, even in your sleep."
+        },
+        {
+          "studyTip": "A change of scenery impacts learning and concentration abilities. Psychologist Robert Bjork suggests that simply moving to a different room to study (or going a step further and learning amongst the great outdoors) could increase both your concentration and retention levels."
+        },
+        {
+          "studyTip": "Scientists have been investigating information retention and the studying process for decades. The best way to find the most effective study method for you is to test various tips, such as the ones listed below."
+        },
+        {
+          "studyTip": "Scientists started exploring the \"curve of forgetting\" in 1885, but the concept remains useful to today's study habits. The gist of the \"curve of forgetting\" is this: The first time you hear a lecture or study something new, you retain up to 80% of what you’ve just learned -- if you review the material within 24 hours. Fortunately, this effect is cumulative; so after a week, you may retain 100% of the same information after only five minutes of review. Generally, psychologists agree this type of interval studying -- as opposed to \"cramming\" -- is best, and that students should study closer to the day they learned the material than the day of the test."
+        },
+        {
+          "studyTip": "This controversial method of studying was a hot topic in 2009, when a psychology professor published an article advising students against reading and rereading textbooks -- which, he argued, merely lead students to thinking they know the material better than they do since it is right in front of them. Conversely, he suggested students use active recall: closing the book and reciting everything they can remember up to that point to practice long-term memorization."
+        },
+        {
+          "studyTip": "Named for its originator, German scientist Sebastian Leitner, the study method forces students to learn, through repetition, the material they know least well. The system involves moving cards with correctly answered questions further down a line of boxes and moving incorrectly answered cards back to the first box. Thus, the cards in the first box are studied most frequently and the interval becomes greater as the student proceeds down the line, forcing her to review again and again the information she doesn't know."
+        }
+      ]
+    },
+    {
+      "categoryName": "Exam Preparation Tips",
+      "imageUrl": "assets/images/4.jpg",
+      "length": "3",
+      "initialStudyTip": "Some students find that recording all information visually in one place (such as on a sheet of paper or chalkboard) can help to paint a fuller picture and aid their connections within the learning process.",
+      "studyTips": [
+        {
+          "studyTip": "As you would with the ACT, SAT, or GMAT, take advantage of professors and instructors who make old exams available as practice tests. You can get a sense of the instructor’s testing style and a become familiar with how the information might be presented on the real test day. A 2011 study finds students who tested themselves with a practice test after learning the material retained 50% more of the information a week later than their peers who did not take a practice test."
+        },
+        {
+          "studyTip": "Experts argue that the difference between \"slow learners\" and \"quick studiers\" is the way they study; for example, instead of memorizing, \"quick learners\" make connections between ideas. Known as contextual learning, this process requires students to customize their own methods of learning, thus making connections that inspire all of the information to fall into place and make sense for them individually."
+        },
+        {
+          "studyTip": "Some students find that recording all information visually in one place (such as on a sheet of paper or chalkboard) can help to paint a fuller picture and aid their connections within the learning process."
+        }
+      ]
+    },
+    {
+      "categoryName": "Remember Fast Tips",
+      "imageUrl": "assets/images/5.jpg",
+      "length": "4",
+      "initialStudyTip": "Physicist Robert Feynman created this organization-based learning method by writing on the title page of an empty notebook, notebook of things I don’t know about. ",
+      "studyTips": [
+        {
+          "studyTip": "Physicist Robert Feynman created this organization-based learning method by writing on the title page of an empty notebook, notebook of things I don’t know about. "
+        },
+        {
+          "studyTip": " From there, he developed a technique of deconstruction and reconstruction of ideas, in an effort to understand even the most complicated of concepts. "
+        },
+        {
+          "studyTip": "Research shows that students have better memory and recall abilities when they learn new information with the expectation of having to teach it to someone else. This makes sense, as teachers are charged with not only learning information for themselves, but also with organizing key elements of said information to explain it clearly to others."
+        },
+        {
+          "studyTip": "Studies also suggest that students are more engaged and will instinctively seek out methods of recall and organization when expected to take on a \"teacher\" role. This can be especially effective with subjects like reading comprehension and science, though part of the magic involves working out how you’d \"teach\" each subject on a case-by-case basis."
+        }
+      ]
+    },
+    {
+      "categoryName": "Exam Day Tips",
+      "imageUrl": "assets/images/6.jpg",
+      "length": "7",
+      "initialStudyTip": "You may think you’re killing two birds with one stone by texting while studying, for example, but you’re actually forming poor study habits. According to researchers, so-called \"multitasking\" extends your study time and ultimately may damage your grades.",
+      "studyTips": [
+        {
+          "studyTip": "Metacognition, or thinking about thinking, thrives on self-awareness. To achieve this, students need to be able to assess their level of skill and where they are in their studies, as well as monitor their emotional well-being around potentially stressful studying activities."
+        },
+        {
+          "studyTip": "Once you’ve been able to cycle through your flashcards without making a single mistake, you may feel a sense of satisfaction and call it a day, or you may feel a charge of adrenaline and be tempted to continue studying. "
+        },
+        {
+          "studyTip": "When you come to this fork in the road, keep in mind that a sharp onset of diminishing returns during \"overlearning.\" With a limited amount of time to study each topic, you’re better served moving on to something else."
+        },
+        {
+          "studyTip": "You may think you’re killing two birds with one stone by texting while studying, for example, but you’re actually forming poor study habits. According to researchers, so-called \"multitasking\" extends your study time and ultimately may damage your grades."
+        },
+        {
+          "studyTip": "Researchers and learning experts debate the concept of learning styles, some even go so far as to say they don't exist. Our conclusion is this: Despite the amount of work on the subject, scientists have found \"virtually no evidence\" to support the concept of learning styles, though they left the possibility open to further investigation in years to come. We recommend you don’t go out of your way to try to make your material fit a specific style because it may not be worth the time or effort."
+        },
+        {
+          "studyTip": "If you’ve never felt \"burned out\" from repeatedly studying pages of history notes, scrutinizing chemistry formulas, or practicing music scales, consider yourself lucky. But know that the threat is real. It's best to vary your material rather than zeroing in persistently on one area."
+        },
+        {
+          "studyTip": "(It is acceptable to join related or similar subject areas together; for example, instead of only memorizing vocabulary, mix in reading as well. If doing math, tackle several concepts together instead of just one."
+        }
+      ]
+    },
+    {
+      "categoryName": "Writing Tips",
+      "imageUrl": "assets/images/7.jpg",
+      "length": "4",
+      "initialStudyTip": "A story loses steam with wordiness. Short sentences are easier to comprehend, something that readers appreciate. Avoid trying to pack too much into a line. Every sentence should contain one thought or idea.",
+      "studyTips": [
+        {
+          "studyTip": "Good writing is clear and concise. Lose filler words, like unnecessary adverbs and prepositional phrases, simply take up space and weigh a sentence down. Say exactly what you mean in the most direct way."
+        },
+        {
+          "studyTip": "here are many ways to write a sentence, and there are different words you can choose to convey the same idea. Always choose the simpler of two words. Use familiar vocabulary instead of lofty words from the English language. Simple words are more direct and easier for all readers to understand. Use a thesaurus if you need a little help finding a replacement or an easier way to say something."
+        },
+        {
+          "studyTip": "A story loses steam with wordiness. Short sentences are easier to comprehend, something that readers appreciate. Avoid trying to pack too much into a line. Every sentence should contain one thought or idea."
+        },
+        {
+          "studyTip": " Keep your paragraphs short and manageable. Each one should consist of sentences that support the same idea. Short paragraphs are easier to digest. They also create a more visually appealing layout on the page. Academic writing often consists of lengthier paragraphs, as they need more information to support each theme. In less formal writing, shorter paragraphs are the norm."
+        }
+      ]
+    },
+    {
+      "categoryName": "Reading Tips",
+      "imageUrl": "assets/images/8.jpg",
+      "length": "6",
+      "initialStudyTip": " Pick a location that is conducive to reading.  Establish a reasonable goal for the reading, and a time limit for how long you’ll be working. These techniques make reading feel manageable and make it easier to get started and finish reading. ",
+      "studyTips": [
+        {
+          "studyTip": "Reading is an easy thing to put off because there is often no exact due date.  By scheduling a time each week to do your reading for each class, you are more likely to complete the reading as if it were an assignment.  Producing a study guide or set of notes from the reading can help to direct your thinking as you read."
+        },
+        {
+          "studyTip": " Pick a location that is conducive to reading.  Establish a reasonable goal for the reading, and a time limit for how long you’ll be working. These techniques make reading feel manageable and make it easier to get started and finish reading. "
+        },
+        {
+          "studyTip": "There are many strategies that will help you actively read and retain information (PRR or SQ3R – see the handouts and videos).  By consciously choosing a way to approach your reading, you can begin the first step of exam preparation or essay writing.  Remember: good readers make stronger writers."
+        },
+        {
+          "studyTip": " When you finish a section, ask yourself, \"What is the main idea in this section?  Could I answer an exam question about this topic?\" Questions at the end of chapters are particularly good for focusing your attention and for assessing your comprehension. If you are having difficulty recalling information or answering questions about the text, search back through the text and look for key points and answers. Self-correction techniques like revisiting the text are essential to assessing your comprehension and are a hallmark technique of advanced readers (Caverly & Orlando, 1991)."
+        },
+        {
+          "studyTip": " Whether they’re annotations in the margins of the book, or notes on a separate piece of paper. Engage with the reading through your notes – ask questions, answer questions, make connections, and think about how these ideas integrate with other information sources (like lecture, lab, other readings, etc.)"
+        },
+        {
+          "studyTip": "Read sitting up with good light, and at a desk or table."
+        }
+      ]
+    },
+    {
+      "categoryName": "Lecture Tips",
+      "imageUrl": "assets/images/9.jpg",
+      "length": "4",
+      "initialStudyTip": "Lecturers often stress or draw attention to certain words or phrases. It is important to underline/highlight these words on your notepad to show how important they are. It might also be useful to start using these terms in your group discussions in order to get familiar with them. ",
+      "studyTips": [
+        {
+          "studyTip": "A lecture is not a dictation exercise where you have to write down everything the professor says. You need to watch out for key points, arguments and themes in the lectures. It's a good thing that lectures are recorded at LSE, so you can always go back and check if you missed a point."
+        },
+        {
+          "studyTip": "It's very easy to start daydreaming during lectures and miss an important point. Try to rest adequately before lectures so you don't doze off in class. Some take coffee before lectures to keep them alert, others chew gum. Listen attentively to examples given by the professor to explain a point. Sometimes the example helps us remember the point in future."
+        },
+        {
+          "studyTip": "Lecturers often stress or draw attention to certain words or phrases. It is important to underline/highlight these words on your notepad to show how important they are. It might also be useful to start using these terms in your group discussions in order to get familiar with them. "
+        },
+        {
+          "studyTip": "In order to catch up, some words need to be written in short but in understandable forms. So, take some time to work out whatever shorthand code you're comfortable with. For example words like using ‘2' instead of ‘to', ‘too' and ‘two', or ‘da' for ‘the'; ‘w/' for ‘with', btw for ‘between’, etc. "
+        }
+      ]
+    },
+    {
+      "categoryName": "Test taking skills",
+      "imageUrl": "assets/images/10.jpg",
+      "length": "7",
+      "initialStudyTip": "There is no substitute for preparation. If you haven't studied throughout the semester. If you haven't reviewed prior to test day. If you don't know the test material, all the test taking strategies in the world won't save you. Preparation is key.",
+      "studyTips": [
+        {
+          "studyTip": "If you miss test instructions, don't be scared to ask for instructions to be repeated."
+        },
+        {
+          "studyTip": "Arriving early may allow you time to ask any last minute questions from the instructor or listen to explanations being provided to other students. Some study resources suggest that it's better to arrive on time to avoid \"brain pickers\", students who ask questions right before a test, but we disagree. We believe there is more to be gained by arriving a little early."
+        },
+        {
+          "studyTip": "There is no substitute for preparation. If you haven't studied throughout the semester. If you haven't reviewed prior to test day. If you don't know the test material, all the test taking strategies in the world won't save you. Preparation is key."
+        },
+        {
+          "studyTip": "As soon as you begin the test, write down information that you will likely need to know for the test and you fear you may forget. (ie., formulas, equations, dates, lists, etc.)"
+        },
+        {
+          "studyTip": "Complete the questions you know first then come back and tackle the problems you're not sure about after."
+        },
+        {
+          "studyTip": "Frequently, test instructions will notify students that they only need to complete two questions, but there will be 5 options."
+        },
+        {
+          "studyTip": "Take a moment to estimate how much time you'll have for each section of the test and each question. Allow enough time for more difficult sections or sections that are weighted more heavily in the final test grade."
+        }
+      ]
+    },
+    {
+      "categoryName": "Learn new language",
+      "imageUrl": "assets/images/11.jpg",
+      "length": "3",
+      "initialStudyTip": "If there’s a “secret” or “hack” to learning a new language, it’s this: hours and hours of awkward and strenuous conversation with people better than you in that language.",
+      "studyTips": [
+        {
+          "studyTip": "language is something that needs to be processed, not memorized. "
+        },
+        {
+          "studyTip": "If there’s a “secret” or “hack” to learning a new language, it’s this: hours and hours of awkward and strenuous conversation with people better than you in that language."
+        },
+        {
+          "studyTip": "Language requires a lot of repetition, a lot of reference experiences, and a consistent commitment and investment. It’s better to allot a particular period of your life, even if it’s only 1-2 weeks, and really go at it 100%, than to half-ass it over the course of months or even years."
+        }
+      ]
+    },
+    {
+      "categoryName": "Focus",
+      "imageUrl": "assets/images/12.jpg",
+      "length": "7",
+      "initialStudyTip": "There is no hard and fast rule and you should of course allow some flexibility depending on how things go. But establishing a routine is essential, and do try to stick to your study timetable as best as you can.",
+      "studyTips": [
+        {
+          "studyTip": "First things first; start with the basics and set your study goals. Ask yourself why you are here, at university, possibly (like me) having travelled across the world for this opportunity. Having fun is certainly one answer, but not the primary one. Knowing your objectives completes half the job."
+        },
+        {
+          "studyTip": "Once you know what you want, the next step is to prepare a weekly study timetable. Set a routine for everything. Your timetable could include the time you should go to bed, the time you should have your meals, and – most importantly – the time you should spend on studies."
+        },
+        {
+          "studyTip": "There is no hard and fast rule and you should of course allow some flexibility depending on how things go. But establishing a routine is essential, and do try to stick to your study timetable as best as you can."
+        },
+        {
+          "studyTip": "Now, I am not asking you to give up all your social activities, but you have to take some bold steps. If you dine out daily, it is better to limit this to one day per week, which will help you save some money as well."
+        },
+        {
+          "studyTip": " If you go to the cinema every week, try to cut down to once a fortnight. If someone is asking you to accompany them to hang out at the mall when you know you should be studying, tell them you’re busy – and let them know when would be a better time. In short: learn to say no when you know you really should."
+        },
+        {
+          "studyTip": "Self-help is the key here. No one else is going to stop you from doing what you want, but you’re the one who will face the consequences if you fail to meet your targets."
+        },
+        {
+          "studyTip": "Remember you are at university for a reason, and if that reason is lost nothing else will fit well in the equation."
+        }
+      ]
+    },
+    {
+      "categoryName": "Stress Management",
+      "imageUrl": "assets/images/13.jpg",
+      "length": "7",
+      "initialStudyTip": "Exercise is one of the most important things you can do to combat stress.",
+      "studyTips": [
+        {
+          "studyTip": "For a super easy and quick stress reliever, try chewing a stick of gum."
+        },
+        {
+          "studyTip": "Exercise is one of the most important things you can do to combat stress."
+        },
+        {
+          "studyTip": "Exercise lowers your body’s stress hormones — such as cortisol — in the long run. It also helps release endorphins, which are chemicals that improve your mood and act as natural painkillers."
+        },
+        {
+          "studyTip": "Lemon balm is a member of the mint family that has been studied for its anti-anxiety effects "
+        },
+        {
+          "studyTip": "Using essential oils or burning a scented candle may help reduce your feelings of stress and anxiety."
+        },
+        {
+          "studyTip": "Caffeine is a stimulant found in coffee, tea, chocolate and energy drinks. High doses can increase anxiety.\nPeople have different thresholds for how much caffeine they can tolerate."
+        },
+        {
+          "studyTip": "One way to handle stress is to write things down."
+        }
+      ]
+    },
+    {
+      "categoryName": "Time Management",
+      "imageUrl": "assets/images/14.jpg",
+      "length": "4",
+      "initialStudyTip": "Individuals who practice good time management are able to better achieve goals and objectives, and do so in a shorter length of time.",
+      "studyTips": [
+        {
+          "studyTip": "Making and following a task schedule reduces anxiety. As you check off items on your “to-do” list, you can see that you are making tangible progress. This helps you avoid feeling stressed out with worry about whether you’re getting things done."
+        },
+        {
+          "studyTip": "Good time management gives you extra time to spend in your daily life. People who can time-manage effectively enjoy having more time to spend on hobbies or other personal pursuits."
+        },
+        {
+          "studyTip": "Managing time well leads to more opportunities and less time wasted on trivial activities. Good time management skills are key qualities that employers look for. The ability to prioritize and schedule work is extremely desirable for any organization."
+        },
+        {
+          "studyTip": "Individuals who practice good time management are able to better achieve goals and objectives, and do so in a shorter length of time."
+        }
+      ]
+    },
+    {
+      "categoryName": "Organization skill tips",
+      "imageUrl": "assets/images/15.jpg",
+      "length": "6",
+      "initialStudyTip": "It’s often easiest to enhance organizational skills once you declutter and clean your desk and work area. Assess what’s in and around your workspace and get rid of any objects or documents that you deem unnecessary to complete your daily responsibilities. With fewer distractions around you, you might find that it’s easier to focus on the task at hand.",
+      "studyTips": [
+        {
+          "studyTip": "As you develop an organizational plan, you may first want to set career goals you’d like to meet. You can do this by brainstorming a list of projects or tasks you’d like to complete. "
+        },
+        {
+          "studyTip": "It’s often easiest to enhance organizational skills once you declutter and clean your desk and work area. Assess what’s in and around your workspace and get rid of any objects or documents that you deem unnecessary to complete your daily responsibilities. With fewer distractions around you, you might find that it’s easier to focus on the task at hand.."
+        },
+        {
+          "studyTip": "Once you establish a goal, build a to-do list to establish the necessary steps to achieve it. Try starting with a larger project or goal. Evaluate how long it might take to estimate a final deadline, break it up into smaller tasks and write them down in a list"
+        },
+        {
+          "studyTip": "You can now take this to-do list and begin organizing it based on priority. Place the most important tasks with upcoming deadlines at the top of the list. "
+        },
+        {
+          "studyTip": "Once you’ve established the tasks to be completed, you can schedule when you’ll work on them. Decide how long each task may take and build a schedule accordingly."
+        },
+        {
+          "studyTip": "To increase productivity and remain organized, store documents in files that are clearly labeled and easy to find. Designate folders on your computer to store important resources and documents. "
+        }
+      ]
+    },
+    {
+      "categoryName": "Wellness tips",
+      "imageUrl": "assets/images/16.jpg",
+      "length": "5",
+      "initialStudyTip": "Your body goes quite a few hours without hydration as you sleep. Drinking a full glass of water in the morning can aid digestion, flush out toxins, enhance skin health and give you an energy boost.",
+      "studyTips": [
+        {
+          "studyTip": "Wake up and do something that inspires you like journaling, walking in nature, or other hobbies. Whether it’s productive or relaxing, beginning your morning on the right foot can cultivate a positive mindset and set the tone for the entire day."
+        },
+        {
+          "studyTip": "Your body goes quite a few hours without hydration as you sleep. Drinking a full glass of water in the morning can aid digestion, flush out toxins, enhance skin health and give you an energy boost."
+        },
+        {
+          "studyTip": "Sleep is just as important as eating healthy and exercising. From improving your productivity and concentration to helping support your overall health, getting the recommended hours of sleep per night can have a major impact on your wellbeing.i"
+        },
+        {
+          "studyTip": "Whether you get outside for some exercise or to read a book in the sunshine, you should take at least 30 minutes a day to get some vitamin D."
+        },
+        {
+          "studyTip": "Try the stairs instead of the elevator, take short walks around your office or ride a bike instead of driving. Vigorous exercise is essential but moving throughout the day will keep you energized, as well as benefit your mind and body."
+        }
+      ]
+    }
+  ]
+}

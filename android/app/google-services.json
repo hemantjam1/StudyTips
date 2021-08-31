@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "842711979118",
+    "project_id": "studytips-36815",
+    "storage_bucket": "studytips-36815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842711979118:android:66a68c7eae2dedb78c027f",
+        "android_client_info": {
+          "package_name": "com.mt.studytips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842711979118-7o443avunhqk3b0ks1e0lc5k2srhmvmj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mt.studytips",
+            "certificate_hash": "42111e3f3df617f67de80031d1040f160e0eb2ad"
+          }
+        },
+        {
+          "client_id": "842711979118-3s1i53j5cvo6ul7ftd0p9klo7r55o0am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQYg4RFmahqqemY3IQhRrPBjCUaium3a4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842711979118-3s1i53j5cvo6ul7ftd0p9klo7r55o0am.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
